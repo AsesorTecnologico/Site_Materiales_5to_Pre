@@ -157,8 +157,8 @@ const driveLinks = {
                 16: "https://docs.google.com/presentation/d/1s_h96mzlHkWTDm6Yb8RC9IrSuKCC9Uys/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/1smoeasre0pYHuAjToGARn7UyWfOofIzJ/edit?usp=sharing&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1ZKv4GUUHp1ed_pAIOePT3Sl87GXIPuWN/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
-                19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
-                20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
+                19: "https://docs.google.com/presentation/d/1goYTFxFsTeqH3VO7_BxxO-eMePNx_Khe/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
+                20: "https://docs.google.com/presentation/d/13x1pSUtgRRJELuS0j_qRHsxeuFRI19wI/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
                 }
             },
         "tomo-iii": {
