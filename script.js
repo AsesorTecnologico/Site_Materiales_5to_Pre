@@ -179,7 +179,7 @@ const driveLinks = {
                 18: "https://docs.google.com/presentation/d/19_MPgxhx7TjFU_PO5lp_qiniFoxXrv7H/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1OlynTDtdum5EbOmHDbvMvo048ITNC-c-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1yqdVFpAgofKiFz_rBWZXmLBhONbxXdMe/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
-            },
+            }/*,
             "cap8": {
                 1: "https://docs.google.com/presentation/d/18P7TMHmEdluu3j3kCaiwFB3iZDUVpV55/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
                 2: "https://docs.google.com/presentation/d/1y5p00rk7wq2nbe5eWx0IJWiamYkbd7Ve/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
@@ -215,7 +215,7 @@ const driveLinks = {
                 18: "https://docs.google.com/presentation/d/1cUwnxrkW1a2Iknzj7y0EV5cHZmOPsEaO/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1cqm4onjnZPZcAXu5fZ6vpKNHZSz57Q9Z/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1MzpALVggJSjn8BSzW2N8d1ZhE7CIbxPc/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
-            }/*,
+            },
             "retro": {
                 1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
