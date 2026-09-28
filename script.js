@@ -456,7 +456,7 @@ const driveLinks = {
                 16: "https://docs.google.com/presentation/d/1znvdYDrmTqWneLqKsg9pDSyqk-zJmYih/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/13SyjsCvZgYJIQTyVjJTojldYsnBPWEeV/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1NNYDYOPqfOHeEwJs2CLdR4ylFEKXSgG5/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
-                19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
+                19: "https://docs.google.com/presentation/d/1ZAXwbrmSQ7FG9D4nGH-qDie6429V6jH7/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1yz4okG4b1TwGwuygC5bE2Kkl9JeeoeVv/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
                 }
             },
